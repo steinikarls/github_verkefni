@@ -26,4 +26,5 @@ body {
 .vetur {
 	display: none;
 	/*Settu eigin stíla hér fyrir vetur litaþema*/
+	color: darkgrey;
 }
