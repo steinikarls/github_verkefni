@@ -24,7 +24,7 @@ body {
 	color: #eeeeff;
 }
 .vetur h1{
-	display: none;
+	
 	/*Settu eigin stíla hér fyrir vetur litaþema*/
 	color: darkgrey;
 	font-size: 5em;
