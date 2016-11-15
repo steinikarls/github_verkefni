@@ -20,11 +20,12 @@ body {
 	align-content: center;
 }
 .sumar h1 {
-	font-size: 5em;
+	
 	color: #eeeeff;
 }
-.vetur {
+.vetur h1{
 	display: none;
 	/*Settu eigin stíla hér fyrir vetur litaþema*/
 	color: darkgrey;
+	font-size: 5em;
 }
