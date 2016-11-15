@@ -24,6 +24,9 @@ body {
 	color: #eeeeff;
 }
 .vetur {
-	display: none;
+	
 	/*Settu eigin stíla hér fyrir vetur litaþema*/
+
+	font-size: 5em;
+	color: darkgrey;
 }
