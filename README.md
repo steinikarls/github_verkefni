@@ -1,4 +1,5 @@
 #GitHub einstaklingsverkefni
+<li>er að gera smá breytingar á textan</li>
 ##Greinar og samruni - Branching and Merging
 <ol>
  <li>Skoðaðu vinnuferlið í framkvæmdaskrá (Commits) geymslunnar
